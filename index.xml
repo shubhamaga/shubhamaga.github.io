@@ -7,9 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://helloshubham.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post First Title</title>
+      <link>https://helloshubham.com/posts/first-post/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloshubham.com/posts/first-post/</guid>
+      <description>New Beginnings This is the first post. I&amp;rsquo;m sure you&amp;rsquo;ve come across these before.
+But that doesn&amp;rsquo;t mean it&amp;rsquo;s simply a placeholder. On the contrary, I take first posts rather seriously.
+For me, this piece is a harbinger to the forthcoming good stuff. The question is what will I publish here?
+Honestly, I don&amp;rsquo;t have a specific answer. Most likely, this personal blog will be home to everything that comes to my mind which I won&amp;rsquo;t be able to pitch to other publications.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://helloshubham.com/about-hugo/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloshubham.com/about-hugo/</guid>
+      <description>Hi, I&amp;rsquo;m Shubham Agarwal and I&amp;rsquo;ve been working as a freelance technology journalist for over three years.
+Here you can find my published work:
+ https://www.makeuseof.com/tag/author/shubham/ https://techpp.com/author/shubham/  You can connect me with me over Email or Twitter.</description>
+    </item>
     
   </channel>
 </rss>
