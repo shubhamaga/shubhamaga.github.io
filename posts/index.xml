@@ -7,8 +7,52 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 26 Feb 2019 10:50:52 +0530</lastBuildDate>
+		<lastBuildDate>Mon, 11 Mar 2019 13:25:41 +0530</lastBuildDate>
 		<atom:link href="https://helloshubham.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Android Q Wishlist: 3 Things Android Desparately Needs</title>
+			<link>https://helloshubham.com/posts/android-q-wishlist/</link>
+			<pubDate>Mon, 11 Mar 2019 13:25:41 +0530</pubDate>
+			
+			<guid>https://helloshubham.com/posts/android-q-wishlist/</guid>
+			<description>It’s been over a decade since the world’s biggest operating system’s first release. Android, which today exists on more than 2 billion devices and 85% of the smartphones, has come a long way since Google bought it from Andy Rubin. Perceived as a platform primarily designed and aimed at geeks in its early days, Android has rapidly grown into a mature and modern ecosystem.
+But as the majority of users are still waiting for their share of Pie, Google is all set to unveil Android’s tenth edition with the Q update.</description>
+			<content type="html"><![CDATA[<p>It’s been over a decade since the world’s biggest operating system’s first release. Android, which today exists on more than 2 billion devices and 85% of the smartphones, has come a long way since Google bought it from Andy Rubin. Perceived as a platform primarily designed and aimed at <em>geeks</em> in its early days, Android has rapidly grown into a mature and modern ecosystem.</p>
+
+<p>But as the majority of users are still waiting for their share of Pie, Google is all set to unveil Android’s tenth edition with the Q update. While the yesteryear’s 9.0 release was all about bringing a dash of AI to Android’s several corners, Android Q is expected to push the OS on the privacy front.</p>
+
+<p>And that is certainly the right way forward. However, Android still has a myriad of core glaring shortcomings which Google has consistently overlooked. Essential features which have existed on iOS for ages and marred Android’s experience as well as image. Here are 3 things I feel Google needs to address on Android Q and no, I’m not going to discuss a dark theme.</p>
+
+<p>##1. A (much) better share menu</p>
+
+<p><em>“How is this still not fixed?”</em>, I ask myself every time I share a file on Android. Every Time.</p>
+
+<p>Android’s native share menu has been a disaster ever since it was redesigned three years back. And for some reason, Google hasn’t decided to take action in spite of it being such a fundamental element of the operating system. It’s slow (even if your phone has 10GB of RAM), cluttered, and downright an embarrassing piece of software for a company that has managed to build a human-like robot for answering your calls and booking appointments.</p>
+
+<p>To truly understand how messed up the share menu is on Android, I recommend reading <a href="https://www.androidpolice.com/2018/05/05/google-please-fix-androids-slow-bloated-share-ui/">Rita El Khoury’s excellent piece on AndroidPolice</a>.</p>
+
+<p>##2. Universal search</p>
+
+<p>Another feature which has astonishingly remained absent on Android all these years is a universal search. Seriously, in an age where nearly every app or operating system has a universal search to instantly look up anything, how is Android so far behind?</p>
+
+<p>Of course, thanks to Android’s open environment, you can turn to third-party apps or skins to replicate a decent search option. But native solutions are always better and more importantly, seamless.</p>
+
+<p>Spotlight, on the other hand, has become an iconic component of the whole iOS experience. One swipe down on the home screen and you can fetch exactly what you need in seconds. The only inbuilt way you can search on Android is the Google bar which as you might already know, isn’t all that reliable or connected to any handy shortcuts.</p>
+
+<p>##3. Stricter Design Guidelines</p>
+
+<p>The one that irks me the most, however, is the inferior set of Android apps even if <strong>THEY ARE GOOGLE’S</strong>.</p>
+
+<p>For years, Apple’s app store has dominated over Google’s both in terms of quality and exclusive titles. That can be primarily credited to Android’s frail design guidelines which have allowed even the most conspicuously shady apps to prosper.</p>
+
+<p>The past year was laden with reports of rogue apps compromising their users’ private data and breaching security without much effort. Apps are free to ask any sort of permission irrespective of whether it’s related to their purpose. And if you don’t grant those, they simply refuse to run.</p>
+
+<p>JioTV, for instance, demands the phone call permission and doesn’t function if you don’t cede access. It’s a critical oversight which has put Android and Google in tough spots over the years and led to a Play Store that is brimming with malicious apps, some of which who have also enjoyed a top position on the charts. While Google has begun to crack down on these, it&rsquo;s still far from implementing a more robust wall and I believe the best way to do that is to just rethink their app guidelines.</p>
+
+<p>Sure, those aren’t the only flaws Android suffers from today. There are a ton more if you scratch the surface. One of the more prominent of those is Android Pie’s poorly executed navigation gestures. Although reports say Google could be changing that with the Q update. In addition, Android Q is expected to bring a flurry of privacy-focused tools including the ability to set up temporary permissions. It’s said to arrive in a developer preview sometime today for a handful of Google phones.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Companies Need to Stop Making Phones for Professional Photographers Because There Aren’t Any Takers</title>
