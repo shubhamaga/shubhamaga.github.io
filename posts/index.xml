@@ -18,13 +18,15 @@
 			<guid>https://helloshubham.com/posts/android-q-wishlist/</guid>
 			<description>It’s been over a decade since the world’s biggest operating system’s first release. Android, which today exists on more than 2 billion devices and 85% of the smartphones, has come a long way since Google bought it from Andy Rubin. Perceived as a platform primarily designed and aimed at geeks in its early days, Android has rapidly grown into a mature and modern ecosystem.
 But as the majority of users are still waiting for their share of Pie, Google is all set to unveil Android’s tenth edition with the Q update.</description>
-			<content type="html"><![CDATA[<p>It’s been over a decade since the world’s biggest operating system’s first release. Android, which today exists on more than 2 billion devices and 85% of the smartphones, has come a long way since Google bought it from Andy Rubin. Perceived as a platform primarily designed and aimed at <em>geeks</em> in its early days, Android has rapidly grown into a mature and modern ecosystem.</p>
+			<content type="html"><![CDATA[
+
+<p>It’s been over a decade since the world’s biggest operating system’s first release. Android, which today exists on more than 2 billion devices and 85% of the smartphones, has come a long way since Google bought it from Andy Rubin. Perceived as a platform primarily designed and aimed at <em>geeks</em> in its early days, Android has rapidly grown into a mature and modern ecosystem.</p>
 
 <p>But as the majority of users are still waiting for their share of Pie, Google is all set to unveil Android’s tenth edition with the Q update. While the yesteryear’s 9.0 release was all about bringing a dash of AI to Android’s several corners, Android Q is expected to push the OS on the privacy front.</p>
 
 <p>And that is certainly the right way forward. However, Android still has a myriad of core glaring shortcomings which Google has consistently overlooked. Essential features which have existed on iOS for ages and marred Android’s experience as well as image. Here are 3 things I feel Google needs to address on Android Q and no, I’m not going to discuss a dark theme.</p>
 
-<p>##1. A (much) better share menu</p>
+<h2 id="1-a-much-better-share-menu">1. A (much) better share menu</h2>
 
 <p><em>“How is this still not fixed?”</em>, I ask myself every time I share a file on Android. Every Time.</p>
 
@@ -32,7 +34,7 @@ But as the majority of users are still waiting for their share of Pie, Google is
 
 <p>To truly understand how messed up the share menu is on Android, I recommend reading <a href="https://www.androidpolice.com/2018/05/05/google-please-fix-androids-slow-bloated-share-ui/">Rita El Khoury’s excellent piece on AndroidPolice</a>.</p>
 
-<p>##2. Universal search</p>
+<h2 id="2-universal-search">2. Universal search</h2>
 
 <p>Another feature which has astonishingly remained absent on Android all these years is a universal search. Seriously, in an age where nearly every app or operating system has a universal search to instantly look up anything, how is Android so far behind?</p>
 
@@ -40,7 +42,7 @@ But as the majority of users are still waiting for their share of Pie, Google is
 
 <p>Spotlight, on the other hand, has become an iconic component of the whole iOS experience. One swipe down on the home screen and you can fetch exactly what you need in seconds. The only inbuilt way you can search on Android is the Google bar which as you might already know, isn’t all that reliable or connected to any handy shortcuts.</p>
 
-<p>##3. Stricter Design Guidelines</p>
+<h2 id="3-stricter-design-guidelines">3. Stricter Design Guidelines</h2>
 
 <p>The one that irks me the most, however, is the inferior set of Android apps even if <strong>THEY ARE GOOGLE’S</strong>.</p>
 
